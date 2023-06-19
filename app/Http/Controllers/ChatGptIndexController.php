@@ -7,10 +7,9 @@ use Dotenv\Util\Str;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
 use Inertia\Response;
-use Illuminate\Support\Facades\Auth
+use Illuminate\Support\Facades\Auth;
 
-class ChatGptIndexController extends Controller
-{
+class ChatGptIndexController extends Controller{
     /**
      * Handle the incoming request.
      */

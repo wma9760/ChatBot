@@ -29,7 +29,7 @@ const submit=()=>{
 }
 
 </script>
-<style>
+<!-- <style>
 :root {
     --theme-color-0_01: rgba(16, 163, 127, 0.01);
     --theme-color-0_02: rgba(16, 163, 127, 0.02);
@@ -132,7 +132,7 @@ const submit=()=>{
     --theme-color-0_99: rgba(16, 163, 127, 0.99);
     --theme-color-1: rgba(16, 163, 127, 1);
 }
-</style>
+</style> -->
 <template>
   <!-- <div id="wrapper" class="" style=""> -->
 
